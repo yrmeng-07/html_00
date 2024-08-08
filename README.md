@@ -4,8 +4,8 @@
 * This website is only made for my good friend. Unauthorized cloning of this repository is prohibited.
 
  ## 下载方式 1 / Download Method 1
-* 如有需要可点击[此链接](https://github.com/user-attachments/files/16538179/html.zip)下载以授权的模板.(此模板公开可用)
-* If you need it, you can click the [following link](https://github.com/user-attachments/files/16538179/html.zip) to download the authorized template. (This template is publicly available.)
+* 如有需要可点击[此链接](https://github.com/user-attachments/files/16538179/html.zip)下载已被授权的模板.(此模板公开可用)
+* If necessary, you can click on [this link](https://github.com/user-attachments/files/16538179/html.zip) to download the authorized template. (This template is publicly available.)
  
 #
  
