@@ -16,7 +16,8 @@
 #
 
 # 使用模板教程： / Tutorial for Using the Template:
-[文档路径图/Document path graph](https://github.com/user-attachments/assets/261a06ea-f082-451b-96a1-f34a134f08e1)
+[文档路径图/Document path graph](https://github.com/user-attachments/assets/0c1216de-3f9f-439b-8d06-aa0df03f6198)
+
 * ①:修改人名
 * ①: Modify the name of the person
 * ②:修改已有寿星头像图片名为image0.png,要求人物头部或图像主体位于中部。
