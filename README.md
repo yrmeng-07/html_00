@@ -16,7 +16,7 @@
 #
 
 # 使用模板教程： / Tutorial for Using the Template:
-[文档路径图/Document path graph](https://github.com/user-attachments/assets/0c1216de-3f9f-439b-8d06-aa0df03f6198)
+![文档路径图/Document path graph](https://github.com/user-attachments/assets/f4e46b34-db92-474e-b280-b342032ddb2c)
 
 * ①:修改人名
 * ①: Modify the name of the person
